@@ -46,3 +46,5 @@ The program starts by defining helper functions to perform specific tasks such a
 The main() function orchestrates the workflow, ensuring a smooth interaction with the user from input to output.
 The if __name__ == "__main__": block ensures that the main() function runs only when the script is executed directly, not when imported as a module.
 This structure makes the program easy to understand, maintain, and extend with additional features if needed.
+OUTPUT:![Screenshot 2024-07-20 204339](https://github.com/user-attachments/assets/2f446ac8-c637-43b7-a946-41179011da5e)
+
